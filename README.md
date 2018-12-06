@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+the world is beautiful, isn't ?
